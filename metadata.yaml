@@ -1,0 +1,39 @@
+_repo: A-Master-of-Fortune--Being-Further-Adventures-of-Captain-Kettle_12556
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: &id001 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+creator:
+  author:
+    agent_name: Hyne, Charles John Cutcliffe Wright
+    aliases:
+    - Hyne, C. J. Cutcliffe (Charles John Cutcliffe)
+    - Hyne, Cutcliffe
+    - Cutcliffe-Hyne, C. J.
+    - Cutcliffe-Hyne, Charles John
+    birthdate: *id001
+    deathdate: 1944
+    gutenberg_agent_id: '4423'
+    url: http://www.gutenberg.org/2009/agents/4423
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Congo (Democratic Republic) -- History -- To 1908 -- Fiction'
+- GITenberg
+title: 'A Master of Fortune: Being Further Adventures of Captain Kettle'
+url: http://www.gutenberg.org/ebooks/12556
